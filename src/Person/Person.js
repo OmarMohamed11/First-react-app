@@ -3,7 +3,7 @@ import React from 'react';
 
 import classes from './personstyle.css';
 
-const person = (props) => {
+const person = (props ) => {
     // Radium >>>> 
     // const style = {
     //     '@media (min-width: 600px)' : {
